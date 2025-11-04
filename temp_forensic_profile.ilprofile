@@ -1,0 +1,21 @@
+{
+  "leapp": "ileapp",
+  "format_version": 1,
+  "plugins": [
+    "logarchive",
+    "serialNumber",
+    "deviceName",
+    "connected_device_info_device_history",
+    "accountData",
+    "appleLocationd",
+    "appleMapsSearchHistory",
+    "appleWifiKnownNetworks",
+    "callHistory",
+    "sms",
+    "whatsAppMessages",
+    "whatsAppContacts",
+    "safariHistory",
+    "mobileActivationLogs",
+    "mobileInstall"
+  ]
+}
